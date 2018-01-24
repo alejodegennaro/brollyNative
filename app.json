@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "24.0.0",
+    "scheme": "brollyApp",
+	"name": "brollyApp",
+	"slug": "brollyApp",
+	"icon": "./assets/images/react_logo.png",
+    "version": "0.0.1",
+	"splash": {
+		  "backgroundColor": "#FEF9B0"
+		}
+	
+  }
+}

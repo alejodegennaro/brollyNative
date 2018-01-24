@@ -1,0 +1,15 @@
+{
+  "policies": [
+  	{"name":"travel"},
+  	{"name":"motor"},
+  	{"name":"buildings and contents"},
+  	{"name":"mobile"},
+  	{"name":"home"},
+  	{"name":"income"},
+  	{"name":"life"},
+  	{"name":"personal"},
+  	{"name":"theft"},
+  	{"name":"fire"},
+  	{"name":"credit"}
+  ]
+}
